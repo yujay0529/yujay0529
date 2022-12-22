@@ -1,4 +1,3 @@
-<div align=center>
 ## 👋&nbsp;안녕하시렵니까
 
 #### 😎 &nbsp;좋아하는 일을 찾는 중
@@ -33,4 +32,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujay0529&show_icons=true&theme=onedark)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-</div>
