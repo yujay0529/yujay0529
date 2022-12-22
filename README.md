@@ -25,6 +25,6 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
 </div>
-
+<br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yujay0529&show_icons=true&theme=onedark"/>
 
