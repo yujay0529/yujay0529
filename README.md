@@ -3,7 +3,7 @@
 #### 😎 &nbsp;좋아하는 일을 찾는 중
 
 #### ✨Platforms & Languages✨
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yujay0529&show_icons=true&theme=onedark"/>
+
 <div>
 	<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
@@ -25,4 +25,6 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
 </div>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yujay0529&show_icons=true&theme=onedark"/>
 
