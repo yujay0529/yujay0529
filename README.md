@@ -29,6 +29,6 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujay0529&show_icons=true&theme=onedark)
+![jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujay0529&show_icons=true&theme=onedark)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
